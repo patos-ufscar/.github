@@ -5,8 +5,8 @@ Bem vindo ao Patos, o melhor <strike>e único</strike> grupo de opensource da UF
 Aqui você vai encontrar:
 - Aulões e preparações de diferentes temas.
 - Repositórios de códigos completamente opensourse.
-- Insentivo ao bom versionamento e praticas de trabalho profissionais (afinal opensurce não é bagunça).
-- Insentivo a produção de PRs aos maiores projetos.
+- Incentivo ao bom versionamento e praticas de trabalho profissionais (afinal opensource não é bagunça).
+- Incentivo a produção de PRs aos maiores projetos.
 - Quack!
 
 # Follow us!
