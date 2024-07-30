@@ -9,8 +9,8 @@ Aqui você vai encontrar:
 - Incentivo a produção de PRs aos maiores projetos.
 - Quack!
 
-# Follow us!
-
 [Flash talk submission form](https://docs.google.com/forms/d/1uaKnEJptZBz185yrvaTBXruO87Ix3qfh8LJ-g8cmKzM/edit)
+
+# Follow us!
 
 [Instagram](https://www.instagram.com/patos.na.ufscar/) | [BioLink](https://bio.link/patos) | [Youtube](https://www.youtube.com/@PatosUFSCar) | [DevTo](https://dev.to/patos)
