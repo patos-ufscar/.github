@@ -11,4 +11,6 @@ Aqui você vai encontrar:
 
 # Follow us!
 
+[Flash talk submission form](https://docs.google.com/forms/d/1uaKnEJptZBz185yrvaTBXruO87Ix3qfh8LJ-g8cmKzM/edit)
+
 [Instagram](https://www.instagram.com/patos.na.ufscar/) | [BioLink](https://bio.link/patos) | [Youtube](https://www.youtube.com/@PatosUFSCar) | [DevTo](https://dev.to/patos)
