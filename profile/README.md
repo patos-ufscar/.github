@@ -9,7 +9,7 @@ Aqui você vai encontrar:
 - Incentivo a produção de PRs aos maiores projetos.
 - Quack!
 
-[Flash talk submission form](https://docs.google.com/forms/d/1uaKnEJptZBz185yrvaTBXruO87Ix3qfh8LJ-g8cmKzM/edit)
+[Forms de submissão de Flash-Talks](https://docs.google.com/forms/d/1uaKnEJptZBz185yrvaTBXruO87Ix3qfh8LJ-g8cmKzM/edit)
 
 # Follow us!
 
