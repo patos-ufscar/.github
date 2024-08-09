@@ -13,4 +13,4 @@ Aqui você vai encontrar:
 
 # Follow us!
 
-[Instagram](https://www.instagram.com/patos.na.ufscar/) | [BioLink](https://bio.link/patos) | [Youtube](https://www.youtube.com/@PatosUFSCar) | [DevTo](https://dev.to/patos)
+[patos.dev](patos.dev) | [Instagram](https://www.instagram.com/patos.na.ufscar/) | [BioLink](https://bio.link/patos) | [Youtube](https://www.youtube.com/@PatosUFSCar) | [DevTo](https://dev.to/patos)
