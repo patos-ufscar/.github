@@ -1,6 +1,6 @@
 # Quack! 👋
 
-Bem vindo ao PATOS, o melhor <strike>e único</strike> grupo de opensource da UFSCar
+Bem vindo ao PATOS, o melhor <strike>e único</strike> grupo de open-source da UFSCar
 
 ## Pretty Awesome To Open Source
 PATOS é um grupo de estudos, aberto e sem hierarquia definida, focado em incentivar a cultura do free and open-source software (FOSS) dentro da comunidade UFSCar e principalmente entre os alunos de computação, através de aulas, eventos e outras atividades.
